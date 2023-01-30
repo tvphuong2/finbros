@@ -1,3 +1,1 @@
-# finbros
-
-## Dự đoán biến động giá cổ phiếu
+# Dự đoán biến động giá cổ phiếu
